@@ -1,4 +1,4 @@
-# Sbakr.github.io
+# Stephbaker.github.io
 My github portfolio
 
-[My Website](https://sbakr.github.io/onepagesunny/#about)
+[My Website](https://stephbaker.github.io/onepagesunny/#about)
